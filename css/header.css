@@ -1,0 +1,29 @@
+header{
+    height: 96px;
+}
+.header-logo,
+.header-nav,
+.header-auth,
+.header-nav-ul-li,
+.header-auth-ul-li{
+    display:inline-block;
+}
+ 
+.header-logo{
+    margin-left :50px;
+    margin-top:34px;
+}
+
+.header-nav{
+    margin-left:70px ;
+}
+.header-nav-ul-li,
+.header-auth-ul-li{
+    margin-left: 25px;
+}
+
+.header-auth{
+    float:right;
+    margin-top :34px;
+    margin-right:50px;
+}
